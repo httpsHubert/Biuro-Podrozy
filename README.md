@@ -1,1 +1,1 @@
-# Jest to projekt Biura Podrozy wykonany w Javie
+# Projekt Biura Podrozy wykonany w Javie
